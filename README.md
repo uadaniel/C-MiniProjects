@@ -1,1 +1,1 @@
-# c-_pyramid_challenge
+C++ MiniProjects
